@@ -1,0 +1,42 @@
+*{
+    color: rgb(87, 203, 55);
+    font-size: 20px ;
+
+}
+
+body{
+    background-color: black;
+    font-size: 15px;
+}
+p{
+    color: white;
+    background-color: rgb(135, 39, 87);
+    font-size: 20px;
+}
+div{
+    color: rgb(235, 235, 71);
+    background-color: rgb(6, 52, 98);
+    font-size: 10px;
+}   
+ol{
+    color: rgb(204, 18, 18);
+    background-color: rgb(12, 64, 59);
+    font-size: 30px;
+}
+span{
+    color: rgb(132, 132, 150);
+    background-color: rgb(20, 42, 126);
+    font-size: 25px;
+}
+.red{
+    color: red;
+    font-size: 40px;
+}
+.container{
+    background-color: rgb(47, 33, 33);
+    font-size: 18px;
+}
+.Vishal{
+    color: rgb(18, 18, 18);
+    font-size: 25px;
+}

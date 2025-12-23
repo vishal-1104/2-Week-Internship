@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    color: rgb(143, 21, 195);
+
+    line-height: 1.4;
+    margin: 2px 0;
+}
+div.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}   
