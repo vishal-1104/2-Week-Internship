@@ -25,12 +25,12 @@ ol{
 }
 span{
     color: rgb(132, 132, 150);
-    background-color: rgb(20, 42, 126);
-    font-size: 25px;
+    background-color: rgb(16, 29, 82);
+    font-size: 20px;
 }
 .red{
-    color: red;
-    font-size: 40px;
+    color: rgb(225, 212, 212);
+    font-size: 20px;
 }
 .container{
     background-color: rgb(47, 33, 33);
@@ -39,4 +39,24 @@ span{
 .Vishal{
     color: rgb(18, 18, 18);
     font-size: 25px;
+}
+#unique{
+    color: rgb(224, 220, 7);
+    font-size: 30px;
+}
+.parent p{
+    color: rgb(23, 16, 23);
+    font-size: 25px;
+}
+.parent .child{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+li{
+    color: rgb(167, 236, 6);
+    font-size: 18px;
+}
+.parent div p{
+    color: rgb(9, 9, 9);
+    font-size: 40px;
 }
