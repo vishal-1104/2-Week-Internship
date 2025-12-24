@@ -64,3 +64,11 @@ a{
     color: rgb(255, 0, 255);
     font-size: 22px;
 }
+.parent > p{
+    color: rgb(185, 230, 230);
+    font-size: 28px;
+}   
+.parent > span{
+    color: rgb(255, 165, 0);
+    font-size: 24px;
+}
